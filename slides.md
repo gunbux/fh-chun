@@ -44,6 +44,7 @@ layout: center
 # Why?
 
 * Software exists to work for you. If you're going to spend the next 4 years married to your computer, you might get a lot be spending some time caring about making it work for you.
+  * Open-source software tend to provide much better community support and are more extensible.
 
 ---
 layout: center
@@ -97,13 +98,17 @@ layout: statement
 
 ## **Least Keystrokes Principle**: You can do everything with a few keystrokes, and you can do everything with a few keystrokes well.
 
+---
+layout: statement
+---
+
+# **Portable**: You can run bring your own config and run it in any remote environment
 
 ---
 layout: two-cols
 class: px-5 self-center
 ---
 
-## Portable: You can run bring your own config and run it in any remote environment
 **This message was brought to you by vscode**
 
 ::right::
@@ -195,7 +200,8 @@ layout: center
 
 # Summary
 
-* Spend some time to think about systems you want to have to be productive. You don't have to reinvent the wheel
+* Spend some time to think about systems you want to have to be productive.
+* You don't have to reinvent the wheel
 * Least Action Principle: Every important workflow should be at your fingertips, literally
 * Automate and make your software work for you, not against you
 
